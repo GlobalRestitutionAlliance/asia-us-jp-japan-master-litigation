@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: japanan-restitution-roadmap-and-qsf-trust-execution
-  name: Japanan Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/japanan-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_jp_001
+    name: Japan Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_002
+    name: Japan Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_003
+    name: Japan Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_004
+    name: Japan Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_005
+    name: Japan Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_006
+    name: Japan Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_007
+    name: Japan Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_008
+    name: Japan Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_009
+    name: Japan Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_010
+    name: Japan Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_011
+    name: Japan Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_012
+    name: Japan Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_013
+    name: Japan Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_014
+    name: Japan Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_015
+    name: Japan Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_016
+    name: Japan Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_017
+    name: Japan Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_018
+    name: Japan Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_019
+    name: Japan Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_020
+    name: Japan Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_021
+    name: Japan Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_022
+    name: Japan Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_023
+    name: Japan Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_024
+    name: Japan Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_025
+    name: Japan Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_026
+    name: Japan Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_027
+    name: Japan Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_028
+    name: Japan Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_029
+    name: Japan Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_030
+    name: Japan Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_031
+    name: Japan Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_032
+    name: Japan Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_033
+    name: Japan Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_034
+    name: Japan Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_035
+    name: Japan Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_036
+    name: Japan Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_037
+    name: Japan Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_038
+    name: Japan Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_039
+    name: Japan Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_040
+    name: Japan Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_041
+    name: Japan Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_042
+    name: Japan Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_043
+    name: Japan Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_044
+    name: Japan Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_045
+    name: Japan Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_046
+    name: Japan Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_047
+    name: Japan Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_048
+    name: Japan Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_049
+    name: Japan Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_050
+    name: Japan Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_051
+    name: Japan Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_052
+    name: Japan Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_053
+    name: Japan Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_054
+    name: Japan Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_055
+    name: Japan Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_056
+    name: Japan Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_057
+    name: Japan Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_058
+    name: Japan Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_059
+    name: Japan Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_060
+    name: Japan Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_061
+    name: Japan Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_062
+    name: Japan Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_063
+    name: Japan Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_064
+    name: Japan Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_065
+    name: Japan Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_066
+    name: Japan Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_067
+    name: Japan Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_068
+    name: Japan Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_069
+    name: Japan Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_070
+    name: Japan Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_071
+    name: Japan Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_072
+    name: Japan Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_073
+    name: Japan Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_074
+    name: Japan Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_075
+    name: Japan Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_076
+    name: Japan Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_077
+    name: Japan Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_078
+    name: Japan Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_079
+    name: Japan Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_080
+    name: Japan Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_081
+    name: Japan Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_082
+    name: Japan Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_083
+    name: Japan Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_084
+    name: Japan Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_085
+    name: Japan Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_086
+    name: Japan Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_087
+    name: Japan Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_088
+    name: Japan Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_089
+    name: Japan Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_090
+    name: Japan Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_091
+    name: Japan Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_092
+    name: Japan Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_093
+    name: Japan Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_094
+    name: Japan Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_095
+    name: Japan Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_096
+    name: Japan Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_097
+    name: Japan Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_098
+    name: Japan Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_099
+    name: Japan Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_100
+    name: Japan Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_101
+    name: Japan Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_102
+    name: Japan Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_103
+    name: Japan Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_104
+    name: Japan Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_105
+    name: Japan Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_106
+    name: Japan Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_107
+    name: Japan Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_108
+    name: Japan Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_109
+    name: Japan Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_110
+    name: Japan Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_111
+    name: Japan Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_112
+    name: Japan Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_113
+    name: Japan Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_114
+    name: Japan Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_115
+    name: Japan Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_116
+    name: Japan Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_117
+    name: Japan Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_118
+    name: Japan Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_119
+    name: Japan Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_120
+    name: Japan Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_121
+    name: Japan Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_122
+    name: Japan Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_123
+    name: Japan Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_124
+    name: Japan Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_125
+    name: Japan Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_126
+    name: Japan Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_127
+    name: Japan Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_128
+    name: Japan Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_129
+    name: Japan Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_130
+    name: Japan Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_131
+    name: Japan Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_132
+    name: Japan Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_133
+    name: Japan Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_134
+    name: Japan Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_135
+    name: Japan Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_136
+    name: Japan Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_137
+    name: Japan Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_138
+    name: Japan Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_139
+    name: Japan Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_140
+    name: Japan Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_141
+    name: Japan Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_142
+    name: Japan Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_143
+    name: Japan Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_144
+    name: Japan Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_145
+    name: Japan Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_146
+    name: Japan Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_147
+    name: Japan Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_148
+    name: Japan Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_149
+    name: Japan Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_150
+    name: Japan Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_151
+    name: Japan Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_152
+    name: Japan Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_153
+    name: Japan Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_154
+    name: Japan Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_155
+    name: Japan Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_156
+    name: Japan Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_157
+    name: Japan Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_158
+    name: Japan Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_159
+    name: Japan Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_160
+    name: Japan Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_161
+    name: Japan Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_162
+    name: Japan Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_163
+    name: Japan Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_164
+    name: Japan Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_165
+    name: Japan Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_166
+    name: Japan Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_167
+    name: Japan Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_168
+    name: Japan Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_169
+    name: Japan Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_170
+    name: Japan Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_171
+    name: Japan Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_172
+    name: Japan Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_173
+    name: Japan Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_174
+    name: Japan Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_175
+    name: Japan Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_176
+    name: Japan Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_177
+    name: Japan Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_178
+    name: Japan Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_179
+    name: Japan Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_180
+    name: Japan Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_181
+    name: Japan Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_182
+    name: Japan Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_183
+    name: Japan Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_184
+    name: Japan Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_185
+    name: Japan Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_186
+    name: Japan Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_187
+    name: Japan Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_188
+    name: Japan Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_189
+    name: Japan Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_190
+    name: Japan Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_191
+    name: Japan Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_192
+    name: Japan Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_193
+    name: Japan Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_194
+    name: Japan Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_195
+    name: Japan Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_196
+    name: Japan Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_197
+    name: Japan Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_198
+    name: Japan Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_199
+    name: Japan Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_200
+    name: Japan Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_201
+    name: Japan Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_202
+    name: Japan Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_203
+    name: Japan Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_204
+    name: Japan Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_205
+    name: Japan Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_206
+    name: Japan Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_207
+    name: Japan Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_208
+    name: Japan Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_209
+    name: Japan Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_210
+    name: Japan Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_211
+    name: Japan Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_212
+    name: Japan Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_213
+    name: Japan Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_214
+    name: Japan Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_215
+    name: Japan Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_216
+    name: Japan Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_217
+    name: Japan Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_218
+    name: Japan Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_219
+    name: Japan Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_220
+    name: Japan Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_221
+    name: Japan Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_222
+    name: Japan Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_223
+    name: Japan Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_224
+    name: Japan Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_225
+    name: Japan Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_226
+    name: Japan Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_227
+    name: Japan Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_228
+    name: Japan Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_229
+    name: Japan Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_230
+    name: Japan Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_231
+    name: Japan Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_232
+    name: Japan Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_233
+    name: Japan Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_234
+    name: Japan Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_235
+    name: Japan Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_236
+    name: Japan Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_237
+    name: Japan Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_238
+    name: Japan Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_239
+    name: Japan Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_240
+    name: Japan Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_241
+    name: Japan Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_242
+    name: Japan Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_243
+    name: Japan Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_244
+    name: Japan Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_245
+    name: Japan Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_246
+    name: Japan Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_247
+    name: Japan Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_248
+    name: Japan Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_249
+    name: Japan Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_250
+    name: Japan Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_251
+    name: Japan Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_jp_252
+    name: Japan Skill 252
+    status: ACTIVE_SCAFFOLD

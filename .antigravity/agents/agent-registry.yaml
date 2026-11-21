@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-japan-canal-and-intervention-historian
-  name: Japan Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-japan-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_jp_001
+    name: Japan Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_002
+    name: Japan Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_003
+    name: Japan Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_004
+    name: Japan Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_005
+    name: Japan Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_006
+    name: Japan Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_007
+    name: Japan Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_008
+    name: Japan Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_009
+    name: Japan Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_010
+    name: Japan Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_011
+    name: Japan Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_012
+    name: Japan Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_013
+    name: Japan Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_014
+    name: Japan Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_015
+    name: Japan Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_016
+    name: Japan Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_017
+    name: Japan Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_018
+    name: Japan Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_019
+    name: Japan Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_020
+    name: Japan Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_021
+    name: Japan Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_022
+    name: Japan Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_023
+    name: Japan Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_024
+    name: Japan Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_025
+    name: Japan Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_026
+    name: Japan Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_027
+    name: Japan Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_028
+    name: Japan Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_029
+    name: Japan Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_030
+    name: Japan Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_031
+    name: Japan Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_032
+    name: Japan Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_033
+    name: Japan Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_034
+    name: Japan Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_035
+    name: Japan Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_036
+    name: Japan Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_037
+    name: Japan Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_038
+    name: Japan Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_039
+    name: Japan Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_040
+    name: Japan Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_041
+    name: Japan Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_042
+    name: Japan Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_043
+    name: Japan Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_044
+    name: Japan Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_045
+    name: Japan Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_046
+    name: Japan Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_047
+    name: Japan Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_048
+    name: Japan Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_049
+    name: Japan Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_050
+    name: Japan Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_051
+    name: Japan Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_052
+    name: Japan Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_053
+    name: Japan Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_054
+    name: Japan Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_055
+    name: Japan Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_056
+    name: Japan Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_057
+    name: Japan Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_058
+    name: Japan Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_059
+    name: Japan Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_060
+    name: Japan Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_061
+    name: Japan Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_062
+    name: Japan Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_063
+    name: Japan Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_064
+    name: Japan Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_065
+    name: Japan Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_066
+    name: Japan Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_067
+    name: Japan Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_068
+    name: Japan Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_069
+    name: Japan Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_070
+    name: Japan Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_071
+    name: Japan Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_072
+    name: Japan Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_073
+    name: Japan Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_074
+    name: Japan Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_075
+    name: Japan Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_076
+    name: Japan Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_077
+    name: Japan Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_078
+    name: Japan Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_079
+    name: Japan Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_080
+    name: Japan Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_081
+    name: Japan Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_082
+    name: Japan Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_083
+    name: Japan Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_084
+    name: Japan Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_085
+    name: Japan Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_086
+    name: Japan Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_087
+    name: Japan Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_088
+    name: Japan Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_089
+    name: Japan Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_090
+    name: Japan Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_091
+    name: Japan Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_092
+    name: Japan Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_093
+    name: Japan Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_094
+    name: Japan Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_095
+    name: Japan Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_096
+    name: Japan Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_097
+    name: Japan Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_098
+    name: Japan Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_099
+    name: Japan Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_100
+    name: Japan Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_101
+    name: Japan Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_102
+    name: Japan Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_103
+    name: Japan Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_104
+    name: Japan Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_105
+    name: Japan Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_106
+    name: Japan Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_107
+    name: Japan Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_108
+    name: Japan Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_109
+    name: Japan Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_110
+    name: Japan Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_111
+    name: Japan Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_112
+    name: Japan Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_113
+    name: Japan Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_114
+    name: Japan Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_115
+    name: Japan Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_116
+    name: Japan Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_117
+    name: Japan Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_118
+    name: Japan Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_119
+    name: Japan Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_120
+    name: Japan Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_121
+    name: Japan Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_122
+    name: Japan Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_123
+    name: Japan Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_124
+    name: Japan Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_125
+    name: Japan Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_126
+    name: Japan Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_127
+    name: Japan Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_128
+    name: Japan Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_129
+    name: Japan Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_130
+    name: Japan Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_131
+    name: Japan Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_132
+    name: Japan Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_133
+    name: Japan Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_134
+    name: Japan Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_135
+    name: Japan Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_136
+    name: Japan Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_137
+    name: Japan Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_138
+    name: Japan Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_139
+    name: Japan Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_140
+    name: Japan Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_141
+    name: Japan Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_142
+    name: Japan Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_143
+    name: Japan Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_144
+    name: Japan Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_145
+    name: Japan Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_146
+    name: Japan Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_147
+    name: Japan Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_148
+    name: Japan Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_149
+    name: Japan Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_150
+    name: Japan Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_151
+    name: Japan Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_152
+    name: Japan Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_153
+    name: Japan Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_154
+    name: Japan Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_155
+    name: Japan Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_156
+    name: Japan Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_157
+    name: Japan Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_158
+    name: Japan Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_159
+    name: Japan Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_160
+    name: Japan Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_161
+    name: Japan Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_162
+    name: Japan Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_163
+    name: Japan Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_164
+    name: Japan Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_165
+    name: Japan Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_166
+    name: Japan Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_167
+    name: Japan Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_168
+    name: Japan Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_169
+    name: Japan Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_jp_170
+    name: Japan Agent 170
+    status: ACTIVE_SCAFFOLD
