@@ -1,0 +1,17 @@
+{
+  "url": "https://www.hrw.org/asia/japan",
+  "final_url": "https://www.hrw.org/asia/japan",
+  "title": "HRW - Japan",
+  "fetched_at": "2026-11-23T15:24:38.613874Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 200380,
+  "sha256": "c605ba872e175305620dca7ca5dfb8da9166c22c90139b26394fdd33cf7b39e5",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
